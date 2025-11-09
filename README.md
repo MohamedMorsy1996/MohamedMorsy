@@ -12,9 +12,19 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=MohamedMorsy&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/MohamedMorsy-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+
+<div align="center">
+
+[![facebook badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EityedMSY/)
+[![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your.username)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shehta-61b81a1a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/spxd007)
+[![github badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/MohamedMorsy)
+[![website badge](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-website.com)<br>
+ ![Totals Hits](https://komarev.com/ghpvc/?username=MohamedMorsy&style=flat&color=orange&label=PROFILE+VIEWS)
+
 </div>
+
 
 <hr></hr>
 
